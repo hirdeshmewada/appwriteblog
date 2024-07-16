@@ -1,6 +1,5 @@
 
 
-```markdown
 # Blog Post App
 
 This project is a blog post application built using Appwrite as the backend and React for the frontend. Users can sign up, log in, create blog posts using the TinyMCE rich text editor, upload images, and view previews of their posts on the home page.
@@ -46,7 +45,7 @@ This project is a blog post application built using Appwrite as the backend and 
    ```bash
    git clone https://github.com/yourusername/blog-post-app.git
    cd blog-post-app
-   ```
+
 
 2. **Install Dependencies:**
    ```bash
