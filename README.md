@@ -43,7 +43,7 @@ This project is a blog post application built using Appwrite as the backend and 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/blog-post-app.git
+   git clone https://github.com/hirdeshmewada/appwriteblog.git
    cd blog-post-app
 
 
